@@ -24,7 +24,7 @@
   <li>You can accomplish this by freezing the active (green) pendulum, which makes the next smallest rod active.</li>
   <li>Freeze the active rod by pressing the space bar or clicking the mouse</li>
 </ul>
-<h3>Demo Video</h3>
+<h3><a href="./Pendula Demo.mp4">Demo Video</a></h3>
 <video width="640px" height="380px" controls autoplay>
   <source src="Pendula Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
