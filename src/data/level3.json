@@ -1,0 +1,12 @@
+{
+  "radii": [
+    159,
+    97,
+    203,
+    109
+  ],
+  "goal": {
+    "dist from center": 280,
+    "radius": 13
+  }
+}
